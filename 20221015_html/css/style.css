@@ -1,0 +1,21 @@
+body{
+     background:black; 
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.bg_test-text {
+    border:  solid 1px;                             /* 枠線指定 */
+    padding: 10px 20px;                             /* 余白指定 */
+    background-color: black(255, 255, 255, 0.7);     /* 背景色指定 */
+}
+.bg_test {
+    text-align:  center;    /* 文字中央寄せ */
+    padding:  0px;        /* 余白指定 */
+}
